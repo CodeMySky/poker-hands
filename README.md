@@ -1,2 +1,2 @@
 # poker-hands
-http://xiaohan.me/tags/Escaping-Predicting-Poker-Hands/
+http://xiaohan.me/tags/predicting-poker-hands/
